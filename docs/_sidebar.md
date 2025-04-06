@@ -1,7 +1,7 @@
-- [Course Welcome](course-welcome)
-- [Week 1 (May 9 - 15)](module-01)
-- [Week 2 (May 16 - 22)](module-02)
-- [Week 3 (May 23 - 29)](module-03)
+- [Introdução](course-welcome)
+- [Documento 0 - Desenvolvimento atual](module-01)
+- [Documento 1 - ](module-02)
+- [Documento 2 - Arquitetura de Dados](module-03)
 - [Week 4 (May 30 - Jun 5)](module-04)
 - **LMS Links**
   - [![Calendar Icon](https://icongr.am/fontawesome/calendar.svg?size=16&color=808080)Calendar](https://canvas.sfu.ca/courses/44038/calendar)
