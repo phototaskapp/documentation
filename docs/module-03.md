@@ -1,4 +1,4 @@
-# **2.1. Banco de Dados Atual (Supabase)**
+# **2.1. Banco de Dados Atual - Supabase**
 
 ## **2.1.1. Tabelas Existentes**
 
